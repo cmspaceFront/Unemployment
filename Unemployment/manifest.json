@@ -1,0 +1,34 @@
+{
+  "name": "Unemployment",
+  "label": "Unemployment",
+  "type": "widget",
+  "version": "1.0.0",
+  "exbVersion": "1.14.0",
+  "author": "UzSpace",
+  "description": "Buxoro bandlik monitoringi — hududlar, chora-tadbirlar, jadvallar va diagrammalar.",
+  "copyright": "",
+  "license": "http://www.apache.org/licenses/LICENSE-2.0",
+  "icon": "icon.svg",
+  "properties": {
+    "hasSettingPage": true
+  },
+  "settingPanel": {
+    "title": "Buxoro",
+    "size": "small"
+  },
+  "dependency": [
+    "jimu-arcgis"
+  ],
+  "dataSource": true,
+  "supportDataSource": true,
+  "widgetProps": [
+    "useDataSources"
+  ],
+  "translatedLocales": [
+    "en"
+  ],
+  "defaultSize": {
+    "width": 1280,
+    "height": 800
+  }
+}
