@@ -1,5 +1,6 @@
 {
   "portalUrl": "https://gis.uzspace.uz/uzspace",
   "layerUrl": "https://gis.uzspace.uz/uzspacesrvr/rest/services/Hosted/Jismoniy_shaxs/FeatureServer/0",
+  "enterpriseLayerUrl": "https://gis.uzspace.uz/uzspacesrvr/rest/services/Hosted/Yuridik_shaxs/FeatureServer/0",
   "useExbSession": true
 }
