@@ -1,6 +1,11 @@
 {
   "portalUrl": "https://gis.uzspace.uz/uzspace",
-  "layerUrl": "https://gis.uzspace.uz/uzspacesrvr/rest/services/Hosted/Jismoniy_shaxs/FeatureServer/0",
-  "enterpriseLayerUrl": "https://gis.uzspace.uz/uzspacesrvr/rest/services/Hosted/Yuridik_shaxs/FeatureServer/0",
+  "layerUrl": "https://gis.uzspace.uz/uzspacesrvr/rest/services/Hosted/citizens_full/FeatureServer/0",
+  "enterprisePointsLayerUrl": "https://gis.uzspace.uz/uzspacesrvr/rest/services/Hosted/enterprises_full/FeatureServer/0",
+  "enterpriseLayerUrl": "https://gis.uzspace.uz/uzspacesrvr/rest/services/Hosted/enterprises_full/FeatureServer/0",
+  "vacanciesLayerUrl": "https://gis.uzspace.uz/uzspacesrvr/rest/services/Hosted/vacancies/FeatureServer/0",
+  "mahallasLayerUrl": "https://gis.uzspace.uz/uzspacesrvr/rest/services/Hosted/reference_mahallas_full/FeatureServer/0",
+  "homeStatsLayerUrl": "https://gis.uzspace.uz/uzspacesrvr/rest/services/Hosted/public_home_stats/FeatureServer/0",
+  "measuresLayerUrl": "https://gis.uzspace.uz/uzspacesrvr/rest/services/Hosted/measures/FeatureServer/0",
   "useExbSession": true
 }
